@@ -1,7 +1,6 @@
-module github.com/zoondengine/hl/service-bootstrap-libraries
+module github.com/hire-life/service-bootstrap-libraries/pkg
 
 go 1.24.5
-
 
 require (
 	github.com/go-jet/jet/v2 v2.13.0
