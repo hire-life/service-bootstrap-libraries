@@ -2,8 +2,8 @@ package cache
 
 import (
 	"context"
+	"github.com/hire-life/service-bootstrap-libraries/logger"
 	"github.com/redis/go-redis/v9"
-	"github.com/zoondengine/hl/service-bootstrap-libraries/pkg/logger"
 	"go.uber.org/zap"
 	"sync"
 )
