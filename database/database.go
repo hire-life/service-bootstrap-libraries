@@ -2,7 +2,7 @@ package database
 
 import (
 	"context"
-	"github.com/hire-life/service-bootstrap-libraries/pkg/logger"
+	"github.com/hire-life/service-bootstrap-libraries/logger"
 	"github.com/jackc/pgx/v5/pgxpool"
 	"go.uber.org/zap"
 	"sync"

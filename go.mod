@@ -1,4 +1,4 @@
-module github.com/hire-life/service-bootstrap-libraries/pkg
+module github.com/hire-life/service-bootstrap-libraries
 
 go 1.24.5
 

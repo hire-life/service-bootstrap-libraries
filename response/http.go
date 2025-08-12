@@ -3,7 +3,7 @@ package response
 import (
 	"errors"
 	"github.com/go-playground/validator/v10"
-	"github.com/hire-life/service-bootstrap-libraries/pkg/validation"
+	"github.com/hire-life/service-bootstrap-libraries/validation"
 	"net/http"
 )
 

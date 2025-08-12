@@ -1,7 +1,7 @@
 package jet
 
 import (
-	"github.com/hire-life/service-bootstrap-libraries/pkg/logger"
+	"github.com/hire-life/service-bootstrap-libraries/logger"
 	"go.uber.org/zap"
 	"os"
 	"os/exec"
